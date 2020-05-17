@@ -1,0 +1,20 @@
+{
+  "related_notes": [
+    {
+      "label": "Diagnosis with images",
+      "fields_to_copy": [
+        "Diagnosis",
+        "Link",
+        "Images"
+      ],
+      "copy_tags": true
+    },
+    {
+      "label": "Images only",
+      "fields_to_copy": [
+        "Images"
+      ],
+      "copy_tags": false
+    }
+  ]
+}
